@@ -1,0 +1,20 @@
+{
+  "name": "weekthree",
+  "version": "1.0.0",
+  "description": "week 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IVLuke/weekThree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IVLuke/weekThree/issues"
+  },
+  "homepage": "https://github.com/IVLuke/weekThree#readme"
+}
